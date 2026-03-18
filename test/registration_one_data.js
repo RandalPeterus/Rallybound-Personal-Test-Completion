@@ -88,18 +88,19 @@ export default class RegistrationOneData {
         V16: '9825 Businesspark Ave',
         V17: '9825 Lébusinesspark Ave',
         V18: '9825 Business-park Ave',
+        V19: '',
         X18: '9825 Businesspark? Ave',
         B17: 'Busi',
         B18: '12345678901234567890123456789012345678901234567890 Businessparka',
         B19: '123Bu',
         B20: '123456789012345678901234567890123456789012345678 Businesspark A',
-        D9: '123',
+        D9:  '123',
         D10: '12345678901234567890123456789012345678901234567890 Businesspark A',
     }
     static apt_ste_unit = {
-        V19: '123',
-        V20: '#13',
-        V21: '',
+        V20: '123',
+        V21: '#13',
+        V22: '',
         X19: '012345',
         X20: '42%',
         B21: '1',
@@ -109,19 +110,19 @@ export default class RegistrationOneData {
         D11: '12345678901',
     }
     static country = {
-        V22: '1',
-        V23: '35',
-        V24: '_',//Need Custom test, update later with information needed
+        V23: '1',
+        V24: '35',
+        V25: '_',//Need Custom test, update later with information needed
         X21: '_',//Need Custom test, update later with information needed
         B25: '_',//Need Custom test, update later with information needed
         D12: '_',//Need Custom test, update later with information needed
         D13: '_',//Need Custom test, update later with information needed
     }
     static city = {
-        V25: 'San Diego',
-        V26: 'San-Diego',
-        V27: 'San Diégo',
-        V28: '',
+        V26: 'San Diego',
+        V27: 'San-Diego',
+        V28: 'San Diégo',
+        V29: '',
         X22: 'S@n Diego',
         X23: 'San Di3go',
         B26: 'SanD',
@@ -132,10 +133,10 @@ export default class RegistrationOneData {
         D15: 'SanDiegoSanDiegoSanDiegoSanDiegoSanDiegoSanDiegoSanDiegoSanDiegos',
     }
     static state = {
-        V29: '5',
-        V30: 'NY',
-        V31: '_',//Need Custom test, update later with information needed
+        V30: '5',
+        V31: 'NY',
         V32: '_',//Need Custom test, update later with information needed
+        V33: '_',//Need Custom test, update later with information needed
         X24: 'JJ',
         X25: '_',//Need Custom test, update later with information needed
         B30: 'A',
@@ -143,8 +144,8 @@ export default class RegistrationOneData {
         D16: 'ARZ',
     }
     static zip = {
-        V33: '92131',
-        V34: '',
+        V34: '92131',
+        V35: '',
         X26: '9213?',
         X27: '9213ó',
         X28: '92I31',
@@ -156,8 +157,8 @@ export default class RegistrationOneData {
         D20: '9213111',
     }
     static phone1 = {
-        V35: '858',
-        V36: '',
+        V36: '858',
+        V37: '',
         X30: '85B',
         X31: '85 ',
         X32: '85$',
@@ -173,8 +174,8 @@ export default class RegistrationOneData {
         D26: '858',
     }
     static phone2 = {
-        V35: '679',
-        V36: '',
+        V36: '679',
+        V37: '',
         X30: '679',
         X31: '679',
         X32: '679',
@@ -190,8 +191,8 @@ export default class RegistrationOneData {
         D26: '679',
     }
     static phone3 = {
-        V35: '8800',
-        V36: '',
+        V36: '8800',
+        V37: '',
         X30: '8800',
         X31: '8800',
         X32: '8800',

@@ -15,14 +15,14 @@ describe("Registration Last Name", () => {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form
@@ -41,14 +41,14 @@ describe("Registration Last Name", () => {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form
@@ -67,14 +67,14 @@ describe("Registration Last Name", () => {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form
@@ -93,14 +93,14 @@ describe("Registration Last Name", () => {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form
@@ -119,14 +119,14 @@ describe("Registration Last Name", () => {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form
@@ -144,14 +144,14 @@ describe("Registration Last Name", () => {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form
@@ -170,14 +170,14 @@ describe("Registration Last Name", () => {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form
@@ -196,14 +196,14 @@ it("TC#21 B6, Last Name 9, Positive, (64 Characters)", async function () {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form
@@ -222,14 +222,14 @@ it("TC#22 B7, Last Name 10, Positive, (4 Characters)", async function () {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form
@@ -248,14 +248,14 @@ it("TC#23 B8, Last Name 11, Positive, (63 Characters)", async function () {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form
@@ -274,14 +274,14 @@ it("TC#24 D3, Last Name 12, Negative, (2 Characters)", async function () {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form
@@ -292,7 +292,7 @@ it("TC#24 D3, Last Name 12, Negative, (2 Characters)", async function () {
 it("TC#25 D4, Last Name 13, Negative, (65 Characters)", async function () {
     // Navigate to the registration page
     await RegistrationOnePage.open();
-    // Fill the last name field with test data from registration_one_data: 'ReadableLetterStringThatIsEasyToSeeAndCountWithoutAnyNumbersHere'
+    // Fill the last name field with test data from registration_one_data: 'ReadableLetterStringThatIsEasyToSeeAndCountWithoutAnyNumbersHereA'
     await RegistrationOnePage.fillForm(
        RegistrationOneData.firstName.V1,
        RegistrationOneData.lastName.D4,
@@ -300,14 +300,14 @@ it("TC#25 D4, Last Name 13, Negative, (65 Characters)", async function () {
        RegistrationOneData.password.V13,
        RegistrationOneData.confirmPassword.V15,
        RegistrationOneData.address.V16,
-       RegistrationOneData.apt_ste_unit.V19,
-       RegistrationOneData.country.V22,
-       RegistrationOneData.city.V25,
-       RegistrationOneData.state.V29,
-       RegistrationOneData.zip.V33,
-       RegistrationOneData.phone1.V35,
-       RegistrationOneData.phone2.V35,
-       RegistrationOneData.phone3.V35
+       RegistrationOneData.apt_ste_unit.V20,
+       RegistrationOneData.country.V23,
+       RegistrationOneData.city.V26,
+       RegistrationOneData.state.V30,
+       RegistrationOneData.zip.V34,
+       RegistrationOneData.phone1.V36,
+       RegistrationOneData.phone2.V36,
+       RegistrationOneData.phone3.V36
     );
     // Leave other required fields with default values
     // Submit the registration form

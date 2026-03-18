@@ -15,14 +15,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
@@ -40,14 +40,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
@@ -65,14 +65,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
@@ -90,14 +90,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
@@ -115,14 +115,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
@@ -140,14 +140,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
@@ -165,14 +165,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
@@ -190,14 +190,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
@@ -215,14 +215,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
@@ -240,14 +240,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
@@ -265,14 +265,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
@@ -290,14 +290,14 @@ describe("First Name Tests", () => {
        RegistrationOneData.password.V13, 
        RegistrationOneData.confirmPassword.V15, 
        RegistrationOneData.address.V16, 
-       RegistrationOneData.apt_ste_unit.V19, 
-       RegistrationOneData.country.V22, 
-       RegistrationOneData.city.V25, 
-       RegistrationOneData.state.V29, 
-       RegistrationOneData.zip.V33, 
-       RegistrationOneData.phone1.V35, 
-       RegistrationOneData.phone2.V35, 
-       RegistrationOneData.phone3.V35);
+       RegistrationOneData.apt_ste_unit.V20, 
+       RegistrationOneData.country.V23, 
+       RegistrationOneData.city.V26, 
+       RegistrationOneData.state.V30, 
+       RegistrationOneData.zip.V34, 
+       RegistrationOneData.phone1.V36, 
+       RegistrationOneData.phone2.V36, 
+       RegistrationOneData.phone3.V36);
     // Leave other required fields with default values
     // Submit the registration form 
     // Assert that either a success message appears or an appropriate validation error is displayed for the first name field
