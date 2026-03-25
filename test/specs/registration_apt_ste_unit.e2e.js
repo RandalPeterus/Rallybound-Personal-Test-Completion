@@ -126,5 +126,101 @@ describe.skip("Apt/Suite/Unit", () => {
         await expect(registration_twoPage.p2Text).toBeDisplayed();
     });
 
+    it("TC#56, Apt/Suite/Unit 7, Positive, (10 Characters)", async function () {
+        // Navigate to the registration page
+        await RegistrationOnePage.open();
+        // Fill the phone number fields with test phone data
+        await RegistrationOnePage.fullRegistration(
+            RegistrationOneData.firstName.V1,
+            RegistrationOneData.lastName.V5,
+            RegistrationOneData.email.V9,
+            RegistrationOneData.password.V13,
+            RegistrationOneData.confirmPassword.V15,
+            RegistrationOneData.address.V16,
+            RegistrationOneData.apt_ste_unit.B22,
+            RegistrationOneData.country.V23,
+            RegistrationOneData.city.V26,
+            RegistrationOneData.state.V30,
+            RegistrationOneData.zip.V34,
+            RegistrationOneData.phone1.V36,
+            RegistrationOneData.phone2.V36,
+            RegistrationOneData.phone3.V36);
+        // Submit the registration form
+        // Assert that the phone number is accepted in the correct format or displays validation error for invalid format
+        await expect(registration_twoPage.p2Text).toBeDisplayed();
+    });
+
+    it("TC#57, Apt/Suite/Unit 8, Positive, (2 Characters)", async function () {
+        // Navigate to the registration page
+        await RegistrationOnePage.open();
+        // Fill the phone number fields with test phone data
+        await RegistrationOnePage.fullRegistration(
+            RegistrationOneData.firstName.V1,
+            RegistrationOneData.lastName.V5,
+            RegistrationOneData.email.V9,
+            RegistrationOneData.password.V13,
+            RegistrationOneData.confirmPassword.V15,
+            RegistrationOneData.address.V16,
+            RegistrationOneData.apt_ste_unit.B23,
+            RegistrationOneData.country.V23,
+            RegistrationOneData.city.V26,
+            RegistrationOneData.state.V30,
+            RegistrationOneData.zip.V34,
+            RegistrationOneData.phone1.V36,
+            RegistrationOneData.phone2.V36,
+            RegistrationOneData.phone3.V36);
+        // Submit the registration form
+        // Assert that the phone number is accepted in the correct format or displays validation error for invalid format
+        await expect(registration_twoPage.p2Text).toBeDisplayed();
+    });
+
+    it("TC#58, Apt/Suite/Unit 9, Positive, (9 Characters)", async function () {
+        // Navigate to the registration page
+        await RegistrationOnePage.open();
+        // Fill the phone number fields with test phone data
+        await RegistrationOnePage.fullRegistration(
+            RegistrationOneData.firstName.V1,
+            RegistrationOneData.lastName.V5,
+            RegistrationOneData.email.V9,
+            RegistrationOneData.password.V13,
+            RegistrationOneData.confirmPassword.V15,
+            RegistrationOneData.address.V16,
+            RegistrationOneData.apt_ste_unit.B24,
+            RegistrationOneData.country.V23,
+            RegistrationOneData.city.V26,
+            RegistrationOneData.state.V30,
+            RegistrationOneData.zip.V34,
+            RegistrationOneData.phone1.V36,
+            RegistrationOneData.phone2.V36,
+            RegistrationOneData.phone3.V36);
+        // Submit the registration form
+        // Assert that the phone number is accepted in the correct format or displays validation error for invalid format
+        await expect(registration_twoPage.p2Text).toBeDisplayed();
+    });
+
+    it("TC#59, Apt/Suite/Unit 10, Negative, (11 Characters)", async function () {
+        // Navigate to the registration page
+        await RegistrationOnePage.open();
+        // Fill the phone number fields with test phone data
+        await RegistrationOnePage.fullRegistration(
+            RegistrationOneData.firstName.V1,
+            RegistrationOneData.lastName.V5,
+            RegistrationOneData.email.V9,
+            RegistrationOneData.password.V13,
+            RegistrationOneData.confirmPassword.V15,
+            RegistrationOneData.address.V16,
+            RegistrationOneData.apt_ste_unit.D11,
+            RegistrationOneData.country.V23,
+            RegistrationOneData.city.V26,
+            RegistrationOneData.state.V30,
+            RegistrationOneData.zip.V34,
+            RegistrationOneData.phone1.V36,
+            RegistrationOneData.phone2.V36,
+            RegistrationOneData.phone3.V36);
+        // Submit the registration form
+        // Assert that the phone number is accepted in the correct format or displays validation error for invalid format
+        await expect(registration_twoPage.p2Text).toBeDisplayed();
+    });
+
     //don't touch below this line
 });

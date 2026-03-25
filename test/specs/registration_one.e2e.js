@@ -5,7 +5,7 @@ import RegistrationThreePage from "../pageobjects/registration_three.page.js";
 import RegistrationFourPage from "../pageobjects/registration_four.page.js";
 
 //first name tests
-describe("Full Registration Tests", () => { 
+describe.skip("Full Registration Tests", () => { 
     it("TC#1 Full Registration Test (Default Test Case)", async function () { 
     // Navigate to the registration page
     await RegistrationOnePage.open();

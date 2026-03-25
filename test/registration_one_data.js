@@ -110,10 +110,10 @@ export default class RegistrationOneData {
         D11: '12345678901',
     }
     static country = {
-        V23: '1',
-        V24: '35',
+        V23: 1,
+        V24: 35,
         V25: '_',//Need Custom test, update later with information needed
-        X21: '_',//Need Custom test, update later with information needed
+        X21: '0',
         B25: '_',//Need Custom test, update later with information needed
         D12: '_',//Need Custom test, update later with information needed
         D13: '_',//Need Custom test, update later with information needed

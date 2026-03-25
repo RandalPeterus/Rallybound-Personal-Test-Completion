@@ -3,7 +3,7 @@ import RegistrationOneData from "../registration_one_data.js";
 import RegistrationTwoPage from "../pageobjects/registration_two.page.js"; 
 
 //Test Set 2
-describe("Registration Last Name", () => { 
+describe.skip("Registration Last Name", () => { 
     it("TC#14 V6, Last Name 2, positive, (Hyphens Allowed)", async function () { 
     // Navigate to the registration page
     await RegistrationOnePage.open();

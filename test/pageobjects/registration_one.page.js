@@ -67,6 +67,21 @@ class RegistrationOnePage extends Page {
         await this.submitForm();
     }
 
+    async countrySpecialFill (firstName, lastName, email, password, confirmPassword, address, apt_ste_unit, city, zip, phone1, phone2, phone3) {
+        await this.firstNameInput.setValue(firstName)
+        await this.lastNameInput.setValue(lastName)
+        await this.emailInput.setValue(email)
+        await this.passwordInput.setValue(password)
+        await this.confirmPasswordInput.setValue(confirmPassword)
+        await this.addressInput.setValue(address)
+        await this.apt_ste_unitInput.setValue(apt_ste_unit)
+        await this.cityInput.setValue(city)
+        await this.zipInput.setValue(zip)
+        await this.phoneInput1.setValue(phone1)
+        await this.phoneInput2.setValue(phone2)
+        await this.phoneInput3.setValue(phone3)
+    }
+
     async submitForm () {
         await this.submitButton.click()
     }
@@ -166,6 +181,11 @@ class RegistrationOnePage extends Page {
         await this.phoneInput3.setValue(phone3)
         
         await this.submitForm();
+    }
+
+    //country 
+    dropdownLength () {
+        return this.countryInput.$$('option').length;
     }
 
     open () {

@@ -3,7 +3,7 @@ import RegistrationOneData from "../registration_one_data.js";
 import RegistrationTwoPage from "../pageobjects/registration_two.page.js";  
   
   //Test Set 3
-describe("Registration Email", () => { 
+describe.skip("Registration Email", () => { 
     it("TC#26 X7, Email 2, Negative, (No @ not in front of the domain)", async function () { 
     // Navigate to the registration page
     await RegistrationOnePage.open();

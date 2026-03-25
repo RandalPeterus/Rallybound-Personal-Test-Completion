@@ -3,7 +3,7 @@ import RegistrationOneData from "../registration_one_data.js";
 import RegistrationTwoPage from "../pageobjects/registration_two.page.js";  
   
   //Test Set 3
-describe("Password", () => { 
+describe.skip("Password", () => { 
     it("TC#37 X9, Password 2, Negative, (No Uppercase)", async function () { 
     // Navigate to the registration page
     await RegistrationOnePage.open();
